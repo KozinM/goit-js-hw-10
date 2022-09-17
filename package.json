@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://kozinm.github.io/goit-js-hw-10",
@@ -12,10 +12,10 @@
     "url": "git+https://github.com/KozinM/goit-js-hw-10.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Maksym Kozin <maxim.kozin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://kozinm.github.io/goit-js-hw-10/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
